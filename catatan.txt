@@ -1,0 +1,9 @@
+Cara Perbaiki Filament
+https://github.com/filamentphp/filament/discussions/15091
+
+
+Yang Belum:
+1. Trade Trading
+- wallet convert mata uang di atur dari admin
+- admin bisa liat pw
+- min wd di atur dari admin
